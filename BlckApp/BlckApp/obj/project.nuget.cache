@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rc4Md5dQHDe2HP0C3nzuVqV7aACVqBlgx17JomcHVt8HKiS95cm0wci9fU+eolxrcy42SM1q/vaKhHqeGh1AQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Innocent\\source\\repos\\BlckApp\\BlckApp\\BlckApp\\BlckApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Innocent\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Innocent\\.nuget\\packages\\xamarin.forms\\5.0.0.2083\\xamarin.forms.5.0.0.2083.nupkg.sha512"
+  ],
+  "logs": []
+}

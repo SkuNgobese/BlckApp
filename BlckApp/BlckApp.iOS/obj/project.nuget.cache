@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J2EIZHVkpKzfPmdQbIxDNG2p1O3V91cONIWZLujnM10qx7TCFlIWo2Fzc/fTOF6UwqHfnBTqwfnFfI9psaBI7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Innocent\\source\\repos\\BlckApp\\BlckApp\\BlckApp.iOS\\BlckApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Innocent\\.nuget\\packages\\xamarin.forms\\5.0.0.2083\\xamarin.forms.5.0.0.2083.nupkg.sha512"
+  ],
+  "logs": []
+}
